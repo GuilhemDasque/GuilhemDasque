@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuilhemDasque
-- 👀 I’m interested in Electronics and Development on Embedded MicroControllers
+- 👀 I’m interested in Electronics and Development on Embedded Systems
 - 🌱 I’m currently learning Microelectronics and Automation
 - 💞️ I’m looking to collaborate on Hardware or Sofware for embedded systems
 - 📫 How to reach me :
